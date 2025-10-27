@@ -2,7 +2,7 @@
 
 🔭 Atualmente estou desenvolvendo...
 Cursando Engenharia de software e Gestão da Tecnologia da Informação.
- "O projeto-landing-page e o módulo bvase do curso de tecnologia da Escola DNC."
+ "O projeto-landing-page e o módulo base do curso de tecnologia da Escola DNC."
  React,e demais ferramentas de desenvolvimento FulStak.
 
 🌱 Estou aprendendo...
