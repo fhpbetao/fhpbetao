@@ -1,6 +1,6 @@
 👋 Olá, sou o @fhpbetao
 
-🔭 Atualmente estou desenvolvendo...
+🔭 Atualmente estou:
 Cursando Engenharia de software e Gestão da Tecnologia da Informação.
  "O projeto-landing-page e o módulo base do curso de tecnologia da Escola DNC."
  React,e demais ferramentas de desenvolvimento FulStak.
