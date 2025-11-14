@@ -1,4 +1,4 @@
-👋 Olá, sou o @fhpbetao
+👋 Olá, sou o @Betao.eng.software
 
 🔭 Atualmente estou:
 Cursando Engenharia de software e Gestão da Tecnologia da Informação.
