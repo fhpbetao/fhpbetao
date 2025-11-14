@@ -13,7 +13,7 @@ Projetos: desenvolver Sites, E-comerse.
 
 📫 Como me contatar...
  LinkedIn:www.linkedin.com/in/humberto-jose-oliveira
- email:humberto-fhp@hotmail.com
+ email:humberto.software@gmail.com
 
 ⚡ Fato divertido: ...
 Estou migrando de carreira de manufatura Projetos e Ferramentaria para Tecnologia.
